@@ -6,5 +6,5 @@ def parrot
 end
 
 def parrot
-  bird = "Squawk!"
+ "Squawk!"
 end
